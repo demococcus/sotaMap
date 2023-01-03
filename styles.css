@@ -1,0 +1,17 @@
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {margin: 0;}
+
+div.fixed {
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    /* width: 300px;
+    border: 3px solid #73AD21; */
+  }

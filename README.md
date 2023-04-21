@@ -1,9 +1,9 @@
 # SOTA map
 
-## Purpose
+This is a simple map of the SOTA peaks in Rila Mountain (Bulgaria), the trails and the nearby huts.
 
-Shows the SOTA peaks in Rila Mountain (Bulgaria), the trails and the nearby huts.
+It is buld with JavaScript and [MapLibre GL JS](https://maplibre.org/maplibre-gl-js-docs/api/)
 
-## Software 
+## Live Demo
 
-Built with JavaScript and maplibre-gl.
+Deployed on https://demococcus.github.io/sotaMap
